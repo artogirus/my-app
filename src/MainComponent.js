@@ -31,7 +31,7 @@ function MainComponent() {
         <div style={{marginTop:15}}>
         探索名前 : {input}
         </div>
-        <div style={{marginTop:15}}>
+        <div style={{marginTop:15, marginLeft: 32}}>
             位置 : {position}
         </div>
     </div>

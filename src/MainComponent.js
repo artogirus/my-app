@@ -13,7 +13,6 @@ function MainComponent() {
 
     const handleClick = () => {
         findPosition(input);
-        setInput('');
     }
 
   return (
